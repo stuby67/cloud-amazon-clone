@@ -2,7 +2,7 @@
   # Initial Schema Setup for Amazon Clone
 
   1. New Tables
-    - users (handled by Neon Auth)
+    - users (handled by neon Auth)
     - products
       - id (uuid, primary key)
       - name (text)
